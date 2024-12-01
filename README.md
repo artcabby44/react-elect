@@ -22,6 +22,6 @@ Welcome to the **Electricity Consumption Calculator**, a web application designe
 ## :rocket: **Live Demo**
 You can try out the live version of the app here:
 
-[Electricity Consumption Calculator - Live Demo](https://your-project-name.vercel.app)
+[Electricity Consumption Calculator - Live Demo](https://electricity-calculator.vercel.app)
 
 
